@@ -63,8 +63,8 @@ The project leverages the power of Azure Service Fabric to ensure high availabil
 ### Prerequisites
 - Azure Subscription
 - Azure Service Fabric SDK
-- .NET Core 6.0 or later
-- Docker (optional for containerized deployment)
+- .NET Core 9.0 or later
+- Docker (for containerized deployment)
 
 ### Installation
 1. Clone the repository:
